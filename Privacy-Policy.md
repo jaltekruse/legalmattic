@@ -85,7 +85,7 @@ We have a long-standing policy that we do not sell our users' data. We aren't a 
 
 ### How Long We Keep Information
 
-We generally discard information about you when it’s no longer needed for the purposes for which we collect and use it — described in the section above on How and Why We Use Information — and we’re not legally required to keep it. We retain the logs for this period of time in order to, among other things, analyze traffic to Automattic’s websites and investigate issues if something goes wrong on one of our websites.
+We generally discard information about you when it’s no longer needed for the purposes for which we collect and use it — described in the section above on How and Why We Use Information — and we’re not legally required to keep it. We retain the logs for this period of time in order to, among other things, analyze traffic to Free Math’s websites and investigate issues if something goes wrong on one of our websites.
 
 ### Security
 
@@ -98,7 +98,7 @@ You have several choices available when it comes to information about you:
 *   **Limit the information that you provide:** If you have an account with us, you can choose not to provide the optional account information, profile information, and transaction and billing information. Please keep in mind that if you do not provide this information, certain features of our Services — may not be accessible.
 *   **Limit access to information on your mobile device:** Your mobile device operating system should provide you with the option to discontinue our ability to collect stored information or location information via our mobile apps. If you choose to limit this, you may not be able to use certain features, like geotagging for photographs.
 *   **Opt out of marketing communications:** You may opt out of receiving promotional communications from us. Just follow the instructions in those communications or let us know. If you opt out of promotional communications, we may still send you other communications, like those about your account and legal notices.
-*   **Set your browser to reject cookies:** At this time, Automattic does not respond to “do not track” signals across all of our Services. However, you can usually choose to set your browser to remove or reject browser cookies before using freemathapp.org, with the drawback that certain features of the site may not function properly without the aid of cookies.
+*   **Set your browser to reject cookies:** At this time, Free Math does not respond to “do not track” signals across all of our Services. However, you can usually choose to set your browser to remove or reject browser cookies before using freemathapp.org, with the drawback that certain features of the site may not function properly without the aid of cookies.
 *   **Close your account:** While we’d be very sad to see you go, you can close your account if you no longer want to use our Services. Please keep in mind that we may continue to retain your information after closing your account, as described in How Long We Keep Information above — for example, when that information is reasonably needed to comply with (or demonstrate our compliance with) legal obligations such as law enforcement requests, or reasonably needed for our legitimate business interests.
 
 ### Your Rights
