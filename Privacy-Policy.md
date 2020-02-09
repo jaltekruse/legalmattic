@@ -124,7 +124,7 @@ The California Consumer Privacy Act (“CCPA”) requires us to provide Californ
 *   Identifiers (like your name, contact information, and device and online identifiers);
 *   Commercial information (your billing information and purchase history, for example);
 *   Characteristics protected by law (for example, you might provide your gender as part of a research survey for us);
-*   Internet or other electronic network activity information (such as your usage of our Services, like the actions you take as an administrator of a WordPress.com site);
+*   Internet or other electronic network activity information (such as your usage of our Services, like the actions you take as a teacher or student on our site);
 *   Geolocation data (such as your location based on your IP address);
 *   Audio, electronic, visual or similar information (such as your profile picture, if you uploaded one);
 *   Professional or employment-related information (for example information you provide in a job application); and
